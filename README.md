@@ -1,10 +1,6 @@
 # Ignews 📖
 This repository refers to a Front-end Ignews application made with Next.js 🚀 <br />
 
-<p align="center" t>
-  <img src="https://res.cloudinary.com/dyxcgmvy9/image/upload/v1616769072/icons/react_uqc9x7.png" />
-</p>
-
 # Tecnologies 🚀
 Next.js ⚛️ <br />
 React ⚛️ <br />
