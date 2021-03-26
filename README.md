@@ -1,5 +1,7 @@
 # Ignews 📖
-This repository refers to a Front-end Ignews application made with Next.js 🚀 <br />
+This repository refers to a Front-end Ignews application made with Next.js <br />
+
+Project developed at rocketseat ignews bootcamp 🚀 <br/><br/>
 
 # Tecnologies 🚀
 Next.js ⚛️ <br />
@@ -12,7 +14,7 @@ React Icons ⚛️ <br />
 Typescript ⚛️ <br />
 Sass ⚛️
 
-# Result 🤓
+# Result 
 <p align="center">
   <img src="https://res.cloudinary.com/dyxcgmvy9/image/upload/v1616769391/ignews/home_nddfij.png" alt='Home page'/>
 </p>
@@ -36,7 +38,7 @@ Sass ⚛️
 
 
 
-# How to get this repository? 🤔
+# How to get this repository? 
 To obtain this project, follow the steps:
 1. Clone this repository using <code> git clone `git@github.com:wellingtondw/ignews.git`</code>.
 2. Run the <code> yarn </code> command at the root of the cloned project folder to download the dependencies.
